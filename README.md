@@ -2,7 +2,7 @@
 1. Download the file [list-based-navigation.html](list-based-navigation.html).
     * Add some CSS to this page. Check it works.
     * Try and make the list into a horizontal navigation bar.
-    * Have a look on the lecture slides to help you. Here are some CSS properties that will help:
+    * Here are some CSS properties that will help:
         * display
         * text-decoration
         * padding/width
