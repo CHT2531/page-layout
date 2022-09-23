@@ -46,6 +46,10 @@
 
 ## Resources to help
 
+### General CSS
+* https://web.dev/learn/css/
+* https://developer.mozilla.org/en-US/docs/Learn/CSS
+
 ### Flexbox
 * https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
 * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
