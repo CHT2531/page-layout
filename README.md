@@ -10,13 +10,12 @@
 2. Download the file [flexbox.html](flexbox.html).
     * Add some CSS to this page. Check it works.
     * Put an outline and some padding around each of the *div* elements e.g.
-    * 
-    ```css
-    div{
-        outline:1px solid red;
-        padding:2.0em;
-    }
-    ```
+       ```css
+       div{
+           outline:1px solid red;
+           padding:2.0em;
+       }
+       ```
     * Using the flex properties create the following arrangements
 ![Flex 1](flex1.png "Flexbox Example")
 ![Flex 2](flex2.png "Flexbox Example")
@@ -30,7 +29,8 @@
       ![Grid 2](grid2.png "Grid Example")
       ![Grid 3](grid3.png "Grid Example")
       ![Grid 4](grid4.png "Grid Example")
-   (b) Can you create a layout like (c) by using the flexbox instead of CSS grids. One way of doing this is to use flex-wrap - https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap. 
+   
+   b) Can you create a layout like (c) by using the flexbox instead of CSS grids. One way of doing this is to use flex-wrap - https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap. 
 
 4. Change the *div* tags in the CSS Grid example to use suitable semantic elements e.g. *header*, *footer* etc. Add CSS to create the 'holy grail' of web design i.e. a full width header and footer, and three columns.
 
