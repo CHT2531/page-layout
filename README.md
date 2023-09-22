@@ -35,7 +35,7 @@
     ![Grid 3](grid3.png "Grid Example")
 (d)
     ![Grid 4](grid4.png "Grid Example")
-
+(e) Can you create a layout like (c) by using the flexbox instead of CSS grids. One way of doing this is to use flex-wrap - https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap. 
 
 4. Change the *div* tags in the CSS Grid example to use suitable semantic elements e.g. *header*, *footer* etc. Add CSS to create the 'holy grail' of web design i.e. a full width header and footer, and three columns.
 
