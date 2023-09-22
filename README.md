@@ -25,20 +25,14 @@
 3. Download the file [grids.html](grids.html).
     * Add some CSS to this page. Check it works.
     * Put an outline around each of the <div> elements.
-    * Using the grid properties create the following arrangements. For the second, third and fourth examples the grid should resize to the browser width.
-
-(a)
-    ![Grid 1](grid1.png "Grid Example")
-(b)
-    ![Grid 2](grid2.png "Grid Example")
-(c)
-    ![Grid 3](grid3.png "Grid Example")
-(d)
-    ![Grid 4](grid4.png "Grid Example")
-(e) Can you create a layout like (c) by using the flexbox instead of CSS grids. One way of doing this is to use flex-wrap - https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap. 
+    a) Using the grid properties create the following arrangements. For the second, third and fourth examples the grid should resize to the browser width.
+      ![Grid 1](grid1.png "Grid Example")
+      ![Grid 2](grid2.png "Grid Example")
+      ![Grid 3](grid3.png "Grid Example")
+      ![Grid 4](grid4.png "Grid Example")
+   (b) Can you create a layout like (c) by using the flexbox instead of CSS grids. One way of doing this is to use flex-wrap - https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap. 
 
 4. Change the *div* tags in the CSS Grid example to use suitable semantic elements e.g. *header*, *footer* etc. Add CSS to create the 'holy grail' of web design i.e. a full width header and footer, and three columns.
-
 
 5. Combine some of the above:
     * Use a flexbox to arrange the navigation options in exercise 1
